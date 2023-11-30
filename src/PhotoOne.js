@@ -17,5 +17,6 @@ const PhotoOne = ({ message = "", photos = [] }) => {
   );
 };
 
-export default React.memo(PhotoOne);
-// export default PhotoOne;
+
+export default PhotoOne;
+// export default React.memo(PhotoOne);
